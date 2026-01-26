@@ -1,4 +1,5 @@
 👩🏻‍💻 Mirella Marina  
+
 Desenvolvedora Júnior em transição de carreira para a área de Tecnologia, com formação concluída em Análise e Desenvolvimento de Sistemas.
 
 ---
