@@ -1,33 +1,24 @@
+# 👩🏻‍💻 Mirella Marina
 
+Desenvolvedora Front-end com formação em **Análise e Desenvolvimento de Sistemas**.
 
+---
 
+## 💻 Sobre mim
 
+Desenvolvedora com foco em **desenvolvimento web front-end** e **UX**, construindo projetos autorais que unem código e estética.
 
-## 👩🏻‍💻 Mirella Marina
+Tenho experiência prévia na área da saúde, atuando em ambientes de alta responsabilidade. Essa vivência desenvolveu competências que aplico diretamente em tecnologia:
 
+- disciplina e atenção aos detalhes
+- organização e senso de responsabilidade
+- cuidado com código, lógica e processos
 
-Desenvolvedora Júnior em transição de carreira para a área de Tecnologia, com formação concluída em **Análise e Desenvolvimento de Sistemas**.
+Minha trajetória é guiada pelo **aprendizado consciente, prática constante e construção de projetos com identidade própria**.
 
+---
 
-# 💻 Sobre mim
-
-
-Atualmente em início de carreira como desenvolvedora, com foco em **desenvolvimento web** e **fundamentos de programação**, estudando de forma contínua e estruturada.
-
-Possuo experiência prévia na área da saúde, atuando em ambientes de alta responsabilidade.  
-Essa experiência contribuiu para o desenvolvimento de competências como:
-
-- disciplina
-- atenção aos detalhes
-- organização
-- senso de responsabilidade
-
-Essas habilidades hoje são aplicadas diretamente na área de tecnologia, especialmente no cuidado com **código, lógica e processos**.
-
-Minha transição para a tecnologia é guiada pelo **aprendizado consciente, prática constante e construção de projetos autorais**.
-
-
-# 🚀 Tecnologias e estudos
+## 🚀 Tecnologias e estudos
 
 Atualmente estudo e pratico:
 
@@ -41,41 +32,45 @@ Atualmente estudo e pratico:
 - Integração entre **Front-end e Backend**
 - Flask (backend em Python)
 - Persistência de dados com **JSON**
-  
 
+---
 
-# 📂 O que você encontra aqui
+## 📂 O que você encontra aqui
 
 Neste perfil você encontrará:
 
-- exercícios práticos de **lógica de programação**
 - projetos em **HTML, CSS e JavaScript**
 - experimentos com **integração entre front-end e backend**
-- exemplos de código comentado
-- projetos autorais utilizados como parte do processo de aprendizado
+- código comentado e organizado
+- projetos autorais como parte do processo de aprendizado
 - registro da minha **evolução técnica contínua**
 
+---
 
-# 🎨 Projeto em destaque
+## 🎨 Projeto em destaque
 
 ### Atelier
-
-Projeto autoral em desenvolvimento que une **arte e programação**, explorando:
+Aplicação web autoral que une **arte e programação**, explorando:
 
 - HTML, CSS e JavaScript puro
 - manipulação dinâmica do DOM
 - backend com **Python e Flask**
 - persistência de dados em **JSON**
-- integração entre front-end e backend
+- integração completa entre front-end e backend
+- identidade visual própria
 
-O projeto também utiliza **artes autorais próprias**, integrando processo criativo e desenvolvimento técnico.
+O projeto utiliza **artes autorais próprias**, integrando processo criativo e desenvolvimento técnico.
 
+🔗 [Ver repositório](https://github.com/devmirella/atelier)
 
-# 🎯 Objetivo
+---
 
-Atuar como **Desenvolvedora Júnior**, evoluindo tecnicamente, consolidando fundamentos e contribuindo para projetos de tecnologia com dedicação, organização e aprendizado constante.
+## 🎯 Objetivo
 
+Atuar como **Desenvolvedora Front-end**, com interesse em **UX** e interfaces que equilibram função e estética. Quero contribuir para projetos onde o cuidado visual e técnico andam juntos.
 
-# 📌 LinkedIn
+---
 
-https://www.linkedin.com/in/devmirella
+## 📌 LinkedIn
+
+[linkedin.com/in/devmirella](https://www.linkedin.com/in/devmirella)
